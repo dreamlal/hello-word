@@ -1,2 +1,4 @@
 # hello-word
-first one
+hi humens,
+this is my first script.
+I felt fantastic.
